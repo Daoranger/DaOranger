@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Hoang</h1>
 <h3 align="center">I love video games</h3>
 
