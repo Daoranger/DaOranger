@@ -9,7 +9,7 @@
 
 - 🤝 My Past Work [Inversion](https://daorange.itch.io/inversion)
 
-- 🤝 My Past Work [Detective David](https://daorange.itch.io/detective-david))
+- 🤝 My Past Work [Detective David](https://daorange.itch.io/detective-david)
 
 - 👨‍💻 All of my projects are available at [https://daorange.itch.io/](https://daorange.itch.io/)
 
