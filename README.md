@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Go Cones](https://daorange.itch.io/go-cones)
 
-- 🌱 I’m currently learning **Unreal Engine and C++**
+- 🌱 I’m currently learning **Unreal Engine, C++, and Game AI Programming**
 
 - 🤝 My Past Work [Thirsty](https://daorange.itch.io/thirsty)
 
