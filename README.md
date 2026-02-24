@@ -26,6 +26,6 @@
 </p>
 
 ## Current Projects
-* Parallizing A* with C++ multi-threading and CUDA
-* Member of the Autonomy team for SJSU Robotics
+- Parallelized the A* pathfinding algorithm using C++ multithreading and CUDA.
+- Member, Autonomy Team — SJSU Robotics.
 
