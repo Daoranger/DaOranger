@@ -24,8 +24,8 @@
 </p>
 
 ### Other interests
-- Rust, Java, Qt, CUDA, OpenCV, Groot2, RTOS, ROS2
-- Systems Software, Embedded, Cybersecurity, AI/ML
+- Rust, Python, Java, Qt, CUDA, OpenCV, Groot2, RTOS, ROS2
+- Systems Programming, Embedded, Robotics, Cybersecurity, AI/ML, Simulation
 
 ### Current Projects
 - Parallelized the A* pathfinding algorithm using C++ multithreading and CUDA, visualizing it with SFML
