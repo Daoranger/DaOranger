@@ -8,25 +8,24 @@
   <img height="44" src="assets/clion_logo.png" alt="CLion" />
   <img height="44" src="assets/git_logo.png" alt="Git" />
   <img height="44" src="assets/github_logo.png" alt="GitHub" />
-  <img height="44" src="assets/linux_logo.png" alt="Linux" />
+  <img height="44" src="assets/wsl_logo.png" alt="Linux" />
 </p>
 
-### Tools I am familiar with
+### Tools I am familiar/learning
 <p>
   <img height="44" src="assets/sfml_logo.png" alt="SFML" />
   <img height="44" src="assets/c_logo.png" alt="C" />
   <img height="44" src="assets/visualstudio_logo.png" alt="Visual Studio" />
   <img height="44" src="assets/cmake_logo.png" alt="CMake" />
   <img height="44" src="assets/unreal_logo.png" alt="Unreal Engine" />
-  <img height="44" src="assets/wsl_logo.png" alt="WSL" />
+  <img height="44" src="assets/linux_logo.png" alt="WSL" />
 </p>
 
-<!-- These don't have consistent official Simple Icons, so use text or a local image -->
-<p>
-  <b>Also:</b> SFML • Google Test
-</p>
+### Other interests
+- Rust, Java, Qt, CUDA, OpenCV, Groot2, RTOS, ROS2
+- Systems Software, Embedded, Cybersecurity, AI/ML
 
-## Current Projects
+### Current Projects
 - Parallelized the A* pathfinding algorithm using C++ multithreading and CUDA, visualizing it with SFML
 - Member, Autonomy Team — SJSU Robotics
 - Major Map: An All-In-One, Predictive Tool for Course and Degree Planning
