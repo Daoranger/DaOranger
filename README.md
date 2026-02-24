@@ -1,7 +1,7 @@
 ### Hi! I am Hoang Nguyen!
 
 ## I am a C++ Software Engineer with special interest in Unmanned Systems, Autonomy, & C++ 
-<sup><sub><i>Former gameplay/AI game dev, which sparked my current interests and goals :D</i></sub></sup>
+<sub><i>Former gameplay/AI game dev, which sparked my current interests and goals :D</i></sub>
 
 
 ### Tools I use daily
