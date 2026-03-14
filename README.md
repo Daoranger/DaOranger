@@ -8,6 +8,7 @@
 <p>
   <img height="44" src="assets/cpp_logo.png" alt="C++" />
   <img height="44" src="assets/clion_logo.png" alt="CLion" />
+  <img height="44" src="assets/githubdesktop_logo.png" alt="GitHub Desktop" />
   <img height="44" src="assets/git_logo.png" alt="Git" />
   <img height="44" src="assets/github_logo.png" alt="GitHub" />
   <img height="44" src="assets/wsl_logo.png" alt="Linux" />
