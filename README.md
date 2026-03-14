@@ -13,7 +13,7 @@
   <img height="44" src="assets/wsl_logo.png" alt="Linux" />
 </p>
 
-### Tools I am familiar/learning
+### Tools I am learning
 <p>
   <img height="44" src="assets/sfml_logo.png" alt="SFML" />
   <img height="44" src="assets/catch2_logo.png" alt="Catch2" />
