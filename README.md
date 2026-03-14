@@ -16,7 +16,7 @@
 ### Tools I am familiar/learning
 <p>
   <img height="44" src="assets/sfml_logo.png" alt="SFML" />
-  <img height="44" src="assets/c_logo.png" alt="C" />
+  <img height="44" src="assets/catch2_logo.png" alt="Catch2" />
   <img height="44" src="assets/visualstudio_logo.png" alt="Visual Studio" />
   <img height="44" src="assets/cmake_logo.png" alt="CMake" />
   <img height="44" src="assets/unreal_logo.png" alt="Unreal Engine" />
