@@ -13,9 +13,11 @@
 </p>
 
 ### Tools I am familiar with
+<p>
   <img height="44" src="assets/visualstudio_logo.png" alt="Visual Studio" />
   <img height="44" src="assets/unreal_logo.png" alt="Unreal Engine" />
   <img height="44" src="assets/git_logo.png" alt="Git" />
+</p>
 
 ### Tools I am learning
 <p>
