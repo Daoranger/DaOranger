@@ -7,9 +7,10 @@
 ### Tools I use daily
 <p>
   <img height="44" src="assets/cpp_logo.png" alt="C++" />
-  <img height="44" src="assets/clion_logo.png" alt="CLion" />
+  <img height="54" src="assets/clion_logo.png" alt="CLion" />
   <img height="44" src="assets/githubdesktop_logo.png" alt="GitHub Desktop" />
-  <img height="44" src="assets/wsl_logo.png" alt="Linux" />
+  <img height="44" src="assets/wsl_logo.png" alt="WSL" />
+  <img height="44" src="assets/ubuntu_logo.png" alt="Ubuntu" />
 </p>
 
 ### Tools I am familiar with
