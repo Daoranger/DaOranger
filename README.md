@@ -9,18 +9,19 @@
   <img height="44" src="assets/cpp_logo.png" alt="C++" />
   <img height="44" src="assets/clion_logo.png" alt="CLion" />
   <img height="44" src="assets/githubdesktop_logo.png" alt="GitHub Desktop" />
-  <img height="44" src="assets/git_logo.png" alt="Git" />
-  <img height="44" src="assets/github_logo.png" alt="GitHub" />
   <img height="44" src="assets/wsl_logo.png" alt="Linux" />
 </p>
+
+### Tools I am familiar with
+  <img height="44" src="assets/visualstudio_logo.png" alt="Visual Studio" />
+  <img height="44" src="assets/unreal_logo.png" alt="Unreal Engine" />
+  <img height="44" src="assets/git_logo.png" alt="Git" />
 
 ### Tools I am learning
 <p>
   <img height="44" src="assets/sfml_logo.png" alt="SFML" />
   <img height="44" src="assets/catch2_logo.png" alt="Catch2" />
-  <img height="44" src="assets/visualstudio_logo.png" alt="Visual Studio" />
   <img height="44" src="assets/cmake_logo.png" alt="CMake" />
-  <img height="44" src="assets/unreal_logo.png" alt="Unreal Engine" />
   <img height="44" src="assets/linux_logo.png" alt="WSL" />
 </p>
 
