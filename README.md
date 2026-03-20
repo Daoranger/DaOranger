@@ -1,6 +1,6 @@
 ### Hi! I am Hoang Nguyen!
 
-## I am a C++ Software Engineer with special interest in C++ Systems & Autonomy
+## I am a C++ Software Engineer with special interest in Systems, Autonomy, & Artificial Intelligence
 <sub><i>Former gameplay/AI game dev, which sparked my current interests and goals :D</i></sub>
 
 
@@ -37,4 +37,5 @@
 - Autonomy team working on Behavior Tree for SJSU Robotics
 - Major Map: An All-In-One, Predictive Tool for Course and Degree Planning
 - Flight Control Sim with UE5 C++
+- Combatant AI with UE5 C++
 
