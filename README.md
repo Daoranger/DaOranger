@@ -34,7 +34,6 @@
 
 ### Current Projects
 - Parallelized the A* pathfinding algorithm using C++ multithreading and CUDA, visualizing it with SFML
-- Autonomy team working on Behavior Tree for SJSU Robotics
 - Major Map: An All-In-One, Predictive Tool for Course and Degree Planning
 - Flight Control Sim with UE5 C++
 - Combatant AI with UE5 C++
