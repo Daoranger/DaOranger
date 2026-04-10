@@ -1,12 +1,10 @@
 ### Hi, I’m Hoang Nguyen 👋
 
 ## C++ Software Engineer focus on Intelligent Autonomous Systems
-
+---
 ### 🧠 About Me
 I enjoy building intelligent systems that combine decision-making, path planning, and real-time simulation.  
-
 ---
-
 ### ⚙️ Core Skills & Interests
 - C++ Software Development
 - Autonomous Systems
@@ -14,9 +12,7 @@ I enjoy building intelligent systems that combine decision-making, path planning
 - Behavior Trees & Decision Systems
 - Pathfinding & Planning (A*, graph algorithms)
 - Real-time Simulation Systems
-
 ---
-
 ### 🚀 Current Projects
 
 - **Sentinel Drone Autonomy System (ROS2 + BehaviorTree.CPP)**  
