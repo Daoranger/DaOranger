@@ -1,40 +1,31 @@
-### Hi! I am Hoang Nguyen!
+### Hi, I’m Hoang Nguyen 👋
 
-## I am a C++ Software Engineer with special interest in Systems, Autonomy, & Artificial Intelligence
-<sub><i>Former gameplay/AI game dev, which sparked my current interests and goals :D</i></sub>
+## C++ Software Engineer focus on Intelligent Autonomous Systems
 
+---
 
-### Tools I use daily
-<p>
-  <img height="44" src="assets/cpp_logo.png" alt="C++" />
-  <img height="44" src="assets/clion_logo.png" alt="CLion" />
-  <img height="44" src="assets/githubdesktop_logo.png" alt="GitHub Desktop" />
-  <img height="44" src="assets/wsl_logo.png" alt="WSL" />
-  <img height="44" src="assets/ubuntu_logo.png" alt="Ubuntu" />
-</p>
+### 🧠 About Me
+I enjoy building intelligent systems that combine decision-making, path planning, and real-time simulation.  
 
-### Tools I am familiar with
-<p>
-  <img height="44" src="assets/visualstudio_logo.png" alt="Visual Studio" />
-  <img height="44" src="assets/unreal_logo.png" alt="Unreal Engine" />
-  <img height="44" src="assets/git_logo.png" alt="Git" />
-</p>
+---
 
-### Tools I am learning
-<p>
-  <img height="44" src="assets/sfml_logo.png" alt="SFML" />
-  <img height="44" src="assets/catch2_logo.png" alt="Catch2" />
-  <img height="44" src="assets/cmake_logo.png" alt="CMake" />
-  <img height="44" src="assets/linux_logo.png" alt="WSL" />
-</p>
+### ⚙️ Core Skills & Interests
+- C++ Software Development
+- Autonomous Systems
+- Game AI
+- Behavior Trees & Decision Systems
+- Pathfinding & Planning (A*, graph algorithms)
+- Real-time Simulation Systems
 
-### Other interests
-- Rust, Python, Java, Qt, CUDA, OpenCV, Groot2, RTOS, ROS2
-- Systems Programming, Embedded, Robotics, Cybersecurity, AI/ML, Simulation
+---
 
-### Current Projects
-- Parallelized the A* pathfinding algorithm using C++ multithreading and CUDA, visualizing it with SFML
-- Major Map: An All-In-One, Predictive Tool for Course and Degree Planning
-- Flight Control Sim with UE5 C++
-- Combatant AI with UE5 C++
+### 🚀 Current Projects
 
+- **Sentinel Drone Autonomy System (ROS2 + BehaviorTree.CPP)**  
+  Autonomous drone simulation with behavior-driven decision-making, path planning, and real-time perception.
+
+- **Combatant AI (Unreal Engine 5, C++)**  
+  Tactical AI system inspired by squad-based shooters, focused on Behavior Trees, perception, and combat decision logic.
+
+- **Pathfinding Visualization (C++ / SFML)**  
+  Custom pathfinding system with visualization and performance experiments (including parallelization exploration).
