@@ -2,8 +2,6 @@
 
 ## C++ Software Engineer focus on Intelligent Autonomous Systems
 
----
-
 ### 🧠 About Me
 I enjoy building intelligent systems that combine decision-making, path planning, and real-time simulation.  
 
