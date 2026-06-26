@@ -22,11 +22,7 @@ My focus is on bridging **game AI techniques with robotics and autonomous system
 
 ### 🚀 Current Projects
 
-- **Sentinel Drone Autonomy System (ROS2 + BehaviorTree.CPP)**  
-  Autonomous drone simulation system featuring behavior-driven decision-making, path planning, and simulated perception.
-
-- **Combatant AI (Unreal Engine 5, C++)**  
-  Tactical AI system inspired by squad-based shooters, focused on Behavior Trees, perception systems, and combat decision-making.
-
-- **Pathfinding Visualization (C++ / SFML)**  
-  Interactive A* pathfinding system with visualization and experiments in algorithm performance and optimization.
+- **Sprinkles**: firefighting robot
+- **Arbiter**: 2D game engine with game AI tools
+- **NoMansLand**: Tatical FPS game inspired by RoN, EFT, Squad, HLL
+- **Pier5411**: Ship building game by Blobs Games!
