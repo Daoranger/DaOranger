@@ -1,6 +1,6 @@
 ### Hi, I'm Hoang Nguyen 👋
 
-## C++ Software Engineer focused on Intelligent Autonomous Systems
+## C++ Software Engineer interested in systems, cybersecurity, game AI, and robotics/autonomous systems.
 
 ---
 
