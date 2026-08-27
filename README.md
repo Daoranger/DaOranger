@@ -16,10 +16,10 @@ Currently building a 2D game engine centered on AI systems (utility AI, GOAP, be
 
 ### 🔨 Featured Projects
 
-- **[Arbiter](https://github.com/Daoranger/arbiter)** — 2D game engine in C++/SDL3, focused on AI systems
+- **[Arbiter](https://github.com/Daoranger/arbiter)** — 2D game engine in C++/SFML3, focused on AI systems
 - **[Pathfinding Visualizer](https://github.com/Daoranger/pathfinding)** — A*, Dijkstra, BFS, DFS, Greedy, parallelized multi-agent search in C++/SFML
 - **[Steering Behaviors](https://github.com/Daoranger/steering)** — Autonomous movement behaviors (seek, flee, pursuit, wander, obstacle avoidance) in C++/SFML
-- **[Sprinkles](https://github.com/Daoranger/sprinkles)** — ROS2 firefighting robot with computer vision, teleoperated + autonomous control
+- **[Brobot](https://github.com/Daoranger/brobot)**
 - **[Area 1 Low Fat](https://github.com/Daoranger/area-1-low-fat)** — 3D physics engine in C++/openFrameworks with octree-accelerated collision detection
 
 ---
